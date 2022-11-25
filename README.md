@@ -26,7 +26,7 @@ Before you begin, ensure you have met the following requirements:
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 * ÇEVİRİ : [Git](https://git-scm.com/downloads "Download Git") bilgisayarınızda, işletim sisteminizde yüklü olmalıdır.
 
-### Run Locally
+### Run Locally (Yerel olarak Çalıştırmak İçin)
 
 To run **Jumping-Square-Project** locally, run this command on your git bash:
 (**Jumping-Square-Project**'i yerel olarak çalıştırmak için Terminal ekranınızda şu komutu çalıştırın)
@@ -52,5 +52,5 @@ If you want to contact me you can reach me at [Twitter](https://www.twitter.com/
 
 ### License (Lisans - Telif Hakkı)
 
-This project is **free to use** and does not contains any license.
+This project is **free to use** and does not contains any license. <br>
 Bu proje tamamen **ücretsizdir** herhangi bir telif hakkı içermez, öğrenmeniz benim için yeterli.
