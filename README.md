@@ -7,7 +7,7 @@
   
   <br>
 
-  <h2 align="center">Google Search Box</h2>
+  <h2 align="center">Jumping Square ( Zıplayan Kare )</h2>
 
   Bu projede kendiliğinden Zıplayan ve belirli bir döngüye sahip animasyonlu bir Zıplayan Kare Uygulaması oluşturdum. Proje sadece **HTML5**, **CSS3** kullanılarak oluşturulmuştur.
 
