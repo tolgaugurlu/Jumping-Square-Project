@@ -9,7 +9,7 @@
 
   <h2 align="center">Jumping Square ( Zıplayan Kare )</h2>
 
-  Bu projede kendiliğinden Zıplayan ve belirli bir döngüye sahip animasyonlu bir Zıplayan Kare Uygulaması oluşturdum. Proje sadece **HTML5**, **CSS3** kullanılarak oluşturulmuştur.
+  Bu projede kendiliğinden zıplayan ve belirli bir döngüye sahip animasyonlu Zıplayan Kare Uygulaması oluşturdum. Proje sadece **HTML5**, **CSS3** kullanılarak oluşturulmuştur.
 
   <a href="https://tolgaugurlu.github.io/Jumping-Square-Project"><strong>➥ Live Demo</strong></a>
 
